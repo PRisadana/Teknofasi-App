@@ -1,4 +1,4 @@
-Nama : Resandy Prisadana
-NIM  : 2205551050
-Pemrograman Mobile A
-Anak Agung Ketut Agung Cahyawan Wiranatha, ST, MT
+\n Nama : Resandy Prisadana 
+\n NIM  : 2205551050 
+\n Pemrograman Mobile A
+\n Anak Agung Ketut Agung Cahyawan Wiranatha, ST, MT
