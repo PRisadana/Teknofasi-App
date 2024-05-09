@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Teknofasi</string>
+    <string name="masuk">Masuk</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="teknofasi">Teknofasi</string>
+    <string name="welcome_desc">Aplikasi TEKNOFASI merupakan aplikasi yang dibuat sebagai interface untuk melakukan absensi pada perkuliahan. Selain sebagai absensi mahasiswa, di dalam aplikasi ini juga terdapat informasi terkait data kehadiran dan data mata kuliah.</string>
+    <string name="selamat_datang_di">Selamat Datang di</string>
+    <string name="ayo_buat_akun_dulu">Ayo buat akun dulu !</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="dosen">Dosen</string>
+    <string name="admin">Admin</string>
+    <string name="email">Email</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="konfirmasi_kata_sandi">Konfirmasi Kata Sandi</string>
+    <string name="daftar">Daftar</string>
+    <string name="asudah_punya_akun">Apakah kamu sudah punya akun?</string>
+    <string name="akun_akses">Akun akses</string>
+    <string name="lupa_password">lupa password?</string>
+    <string name="pendaftaran_akun_berhasil">Pendaftaran akun\nanda berhasil</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="silahkan_isi_data_berikut">Silahkan isi \ndata berikut</string>
+    <string name="data_diri">Data Diri</string>
+    <string name="angkatan">Angkatan</string>
+    <string name="tanggal_masuk">Tanggal Masuk</string>
+    <string name="nomor_induk_mahasiswa">Nomor Induk Mahasiswa</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="nama_asli">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="tanggal_lahir">Tanggal lahir</string>
+    <string name="gender">Gender</string>
+    <string name="selesai">selesai</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="ayo_isi_data_diri_dulu">Ayo isi data diri dulu!</string>
+    <string name="registrasi_anda_berhasil">Registrasi anda\nberhasil!</string>
+</resources>
