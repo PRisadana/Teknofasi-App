@@ -34,4 +34,9 @@
     <string name="selamat_datang">Selamat Datang</string>
     <string name="ayo_isi_data_diri_dulu">Ayo isi data diri dulu!</string>
     <string name="registrasi_anda_berhasil">Registrasi anda\nberhasil!</string>
+    <string name="pilih_gender">Pilih Gender</string>
+    <string-array name="gender_array">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
 </resources>
